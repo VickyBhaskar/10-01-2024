@@ -17,4 +17,3 @@ foreach (Product prd in products)
     Console.Write(prd.ExpDate.ToLongDateString());
     Console.WriteLine("\n");
 }
-Console.ReadKey();
