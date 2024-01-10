@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\bin\Debug\net6.0\ProductHandling.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\bin\Debug\net6.0\ProductHandling.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\bin\Debug\net6.0\ProductHandling.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\bin\Debug\net6.0\ProductHandling.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\bin\Debug\net6.0\ProductHandling.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\ProductHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\ProductHandling.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\ProductHandling.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\ProductHandling.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\ProductHandling.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\refint\ProductHandling.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\ProductHandling.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\ProductHandling.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\10-01-2024\ProductHandling\ProductHandling\obj\Debug\net6.0\ref\ProductHandling.dll
